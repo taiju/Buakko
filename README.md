@@ -43,6 +43,7 @@ CPANに置いていないので、cpanmでtarballからインストールしま�
 
 ```bash
 $ cpanm ./Buakko-0.01.tar.gz
+```
 
 ## SPECIFICATION
 
