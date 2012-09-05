@@ -1,0 +1,36 @@
+#!/usr/bin/env perl
+use strict;
+use warnings;
+use utf8;
+use FindBin;
+use Buakko;
+
+Buakko->new->run(@ARGV);
+
+__END__
+
+=head1 NAME
+
+Buakko - Simple s-expression to (X|HT)ML converter.
+
+=head1 SYNOPSIS
+
+  $ buakko hoge > hoge.html
+
+=head1 INSTALL
+
+=head1 DESCRIPTION
+
+Convert S-Expression to (X|HT)ML.
+
+=head1 AUTHOR
+
+taiju E<lt>higashi@taiju.infoE<gt>
+
+=head1 LICENSE
+
+Copyright (c) 2012, taiju. All rights reserved.
+
+MIT License.
+
+=cut

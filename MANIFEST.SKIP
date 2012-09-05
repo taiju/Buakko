@@ -1,0 +1,8 @@
+\.git/
+\.gitignore
+^MANIFEST\.
+^Makefile$
+^blib/
+\.gz$
+\.shipit
+MYMETA
