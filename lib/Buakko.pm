@@ -124,6 +124,10 @@ Buakko - Simple s-expression to (X|HT)ML converter.
 
 =head1 INSTALL
 
+Download Installe from https://github.com/downloads/taiju/Buakko/Buakko-0.01.tar.gz
+
+  $ cpanm ./Buakko-0.01.tar.gz
+
 =head1 DESCRIPTION
 
 Convert S-Expression to (X|HT)ML.

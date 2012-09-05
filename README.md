@@ -35,7 +35,14 @@ $ buakko hoge > hoge.html
 ```
 
 ## INSTALL
+CPANに置いていないので、cpanmでtarballからインストールします。
 
+- 以下からtarballをダウンロードします。
+  - [https://github.com/downloads/taiju/Buakko/Buakko-0.01.tar.gz](https://github.com/downloads/taiju/Buakko/Buakko-0.01.tar.gz)
+- ダウンロード先のディレクトリに移動し、以下のコマンドを実行します。
+
+```bash
+$ cpanm ./Buakko-0.01.tar.gz
 
 ## SPECIFICATION
 
